@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from matplotlib import pyplot
 from pandas import read_csv
 
-df = pd.read_excel('hollywood movies.xlsx')
+df = pd.read_excel('Most Profitable Movies of All Time - Top 500 Movies.csv')
 
 print("\nFirst 5 Rows of the Dataset:")
 print(df.head())
